@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Syed Mohamed Faizal
 
-<!--
-**SyedMohamedFaizal/SyedMohamedFaizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology  
+💻 Software Intern | Backend & Computer Vision Enthusiast  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about **software development & problem solving**
+- Working with **Qt, C++, OpenCV**
+- Interested in **Backend Development & System Design**
+- Preparing with long-term focus and discipline
+
+---
+
+## 🛠 Tech Stack
+- **Languages**: C, C++, Java, Python
+- **Frameworks / Tools**: Qt, OpenCV, Git, GitHub
+- **IDE**: Qt Creator, VS Code
+- **OS**: Windows
+
+---
+
+## 📌 Projects
+- 🔍 **Crack Detection System (Qt + OpenCV)**  
+  Real-time crack detection using image processing and contour analysis.
+
+---
+
+## 📈 Current Focus
+- Improving **C++ & OpenCV**
+- Learning **Backend Development**
+- Building strong **GitHub project portfolio**
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/syed-mohamed-faizal-b-08515a210/
